@@ -5,5 +5,5 @@ I am interested in this project as air quality is become such an important thing
 
 
 
-![1](https://user-images.githubusercontent.com/40708916/115120610-625daf00-9f7c-11eb-8fb9-5d945f4cc655.jpg)
-![schematic_bb](https://user-images.githubusercontent.com/40708916/115120611-62f64580-9f7c-11eb-9670-fdc1ed8cd681.png)
+![1](https://user-images.githubusercontent.com/40708916/115120610-625daf00-9f7c-11eb-8fb9-5d945f4cc655.jpg) ![schematic_bb](https://user-images.githubusercontent.com/40708916/115120611-62f64580-9f7c-11eb-9670-fdc1ed8cd681.png)
+
