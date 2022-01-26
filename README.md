@@ -6,7 +6,7 @@
 This project is based on  air quality measurement which has become such an important thing now days during the pandemic. As Covid is airborne it is good to know whats in the air around us. The main purpose is to determine air quality and temperature in surrounding area. The similar projects online don’t have it all combined [temperature, pressure, air dust, gas].If you want to see the code please email me @ <a href="prithvirajkeswani@gmail.com"> 
 
   
-Click [here](https://drive.google.com/file/d/13oKP3mlJCQLJ6CDIMTkMjbw5wKqh9gIx/view?usp=sharing) to see the demonstration video.
+[Click here](https://drive.google.com/file/d/13oKP3mlJCQLJ6CDIMTkMjbw5wKqh9gIx/view?usp=sharing) to see the demonstration video.
 
 
 
