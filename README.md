@@ -1,8 +1,12 @@
 
-# Air Quality Control System
+# **Air Quality Control System
 
-Atmel SAM3X8E ARM Microcontroller Based all info along with demo video is in readme.md
-This project is based on  air quality measurement which has become such an important thing now days during the pandemic. As Covid is airborne it is good to know whats in the air around us. The main purpose is to determine air quality and temperature in surrounding area. The similar projects online don’t have it all combined [temperature, pressure, air dust, gas]. Click [here](https://drive.google.com/file/d/13oKP3mlJCQLJ6CDIMTkMjbw5wKqh9gIx/view?usp=sharing) to see the demonstration video.
+## Atmel SAM3X8E ARM Microcontroller Based all info along with demo video is in readme.md
+
+This project is based on  air quality measurement which has become such an important thing now days during the pandemic. As Covid is airborne it is good to know whats in the air around us. The main purpose is to determine air quality and temperature in surrounding area. The similar projects online don’t have it all combined [temperature, pressure, air dust, gas].If you want to see the code please email me @ <a href="prithvirajkeswani@gmail.com"> 
+
+  
+Click [here](https://drive.google.com/file/d/13oKP3mlJCQLJ6CDIMTkMjbw5wKqh9gIx/view?usp=sharing) to see the demonstration video.
 
 
 
@@ -29,4 +33,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE. PLEASE DO YOUR OWN RESEARCH BEFORE USING THIS AND FEEL FREE TO ASK ME 
+THERE ARE ANY QUESTIONS.
